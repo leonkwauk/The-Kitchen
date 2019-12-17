@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<main>
+<section id="home">
+  <div class="navbar">
+    <ul>
+      <li><a href="home.asp">The Kitchen</a></li>
+      <li><a href="menu.asp">Our Menus</a></li>
+      <li><a href="custom.asp">Create Your Own Menu</a></li>
+      <li><a href="about.asp">Our Mission</a></li>
+      <li><a href="contact.asp">Contact Us</a></li>
+    </ul>
+  </div>
+  <div class="Background">
+    <img src="https://images.pexels.com/photos/775031/pexels-photo-775031.jpeg" alt="food background" style="height:615px;">
+  </div>
+  </section>
+</main>
+</html>
