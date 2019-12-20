@@ -1,0 +1,47 @@
+main {
+  padding: 0px;
+  margin: 0px;
+}
+
+.navbar{
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  height: 45px;
+  width: 900px;
+  background: black;
+}
+
+ul {
+  list-style-type: none;
+  font-family: arial;
+  font-size: 21px;
+  font-color: white;
+  margin: 0px;
+  padding: 0px;
+  word-spacing: -3px;
+  background-color: black;
+}
+
+li a {
+  text-decoration: none;
+  list-style-type: none;
+  display: block;
+  color: white;
+  height: 35px;
+  margin: 0px;
+  padding: 5px 10px;
+  text-align: center;
+}
+
+li {
+  float: left;
+}
+
+li a:hover {
+  background-color: grey;
+}
+
+img {
+  transform: rotate(180deg);
+}
